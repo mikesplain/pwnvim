@@ -139,7 +139,6 @@
           # todo: research https://github.com/artempyanykh/marksman
           vale # linter for prose
           proselint # ditto
-          luaformatter # ditto for lua
           prisma-engines # ditto for schema.prisma files
           # Nix language servers summary 2023-11-23
           # rnix-lsp -- seems abandoned
