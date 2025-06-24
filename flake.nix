@@ -112,7 +112,7 @@
           nodePackages.diagnostic-languageserver
           nodePackages.typescript-language-server
           nodePackages.bash-language-server
-          nodePackages."@tailwindcss/language-server"
+          #nodePackages."@tailwindcss/language-server"
           #nodePackages_latest.grammarly-languageserver # besides being a privacy issue if triggered, we have these issues:
           # https://github.com/znck/grammarly/issues/411 grammarly sdk deprecated
           # https://github.com/NixOS/nixpkgs/issues/293172 requires node16, which is EOL
